@@ -1,5 +1,4 @@
-name: Setup Workload Identity Federation
-
+name: (CI/CD) pipeline 
 on:
   push:
     branches: [ "main" ]
